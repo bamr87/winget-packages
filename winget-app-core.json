@@ -39,6 +39,5 @@
 				"Type" : "Microsoft.PreIndexed.Package"
 			}
 		}
-	],
-	"WinGetVersion" : "1.1.12653"
+	]
 }
